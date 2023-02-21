@@ -1,3 +1,3 @@
 # git_test
-github repo blah blah second line
-Hello Odin! (I wanna kill myself)
+This is a github repo test!
+(The voices told me to do it)
